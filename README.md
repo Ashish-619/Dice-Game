@@ -7,6 +7,8 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
+A beginner-friendly project built in React.
+
 Screenshots of the Game:
 ![image](https://github.com/Ashish-619/Dice-Game/assets/69628496/80fad395-cdfe-4c8e-ba25-07990554957a)
 
